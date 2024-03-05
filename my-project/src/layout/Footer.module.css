@@ -1,0 +1,12 @@
+footer {
+    text-align: center;
+    padding: .6em;
+    background-color: #fad8ad;
+    margin-top: 50px;
+}
+
+footer li {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
